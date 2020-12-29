@@ -1,4 +1,4 @@
-// ! Reverse string on native JS.
+// ! Reverse string on native JS. Nice fix.
 function reverse(string) {
   let newStr = '',
     i;
